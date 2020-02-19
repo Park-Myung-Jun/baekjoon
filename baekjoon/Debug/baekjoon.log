@@ -1,0 +1,4 @@
+﻿  ns_18427.cpp
+c:\ssafy_pmj\algorithm\baekjoon\baekjoon\ns_18427.cpp(26): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\ssafy_pmj\algorithm\baekjoon\baekjoon\ns_18427.cpp(68): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  baekjoon.vcxproj -> C:\ssafy_pmj\algorithm\baekjoon\Debug\baekjoon.exe
